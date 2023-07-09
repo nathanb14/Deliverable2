@@ -1,0 +1,15 @@
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.deps.json
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.runtimeconfig.json
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.dll
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.pdb
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.csproj.AssemblyReference.cache
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.AssemblyInfo.cs
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.dll
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/refint/Deliverable2.dll
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.pdb
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.genruntimeconfig.cache
+/Users/nathanb/MIRProjects/Deliverable2/Deliverable2/obj/Debug/net7.0/ref/Deliverable2.dll
